@@ -1,0 +1,93 @@
+Expressive Animator EULA
+
+This End-User License Agreement ("EULA") constitute a legally
+binding agreement made between you, whether personally or on behalf of a
+legal entity (the "Customer", “you”) and Expressive Suite SRL ("Expressive")
+regarding the access and use of Expressive Animator (the "Software").
+
+By continuing to use the Software, you accept to be bound by the terms of
+this EULA. If you do not agree with this EULA, do not use the Software.
+
+1. License grant
+
+This Software is licensed, not sold to you. Subject to this EULA, Expressive
+grants you a worldwide, non-exclusive, non-transferable, revocable license
+to use the Software. The Software can be used only after obtaining and providing
+a valid license key, either by purchasing one or as part of a trial.
+
+If you are an individual, each valid license key gives you the right to activate
+the Software on a maximum of two devices that you personally own or control.
+
+If you are a legal entity, each valid license key can be assigned to a single
+individual who can use it to activate the Software on a maximum of two devices
+that you own or control.
+
+2. Restrictions
+
+You may not: decompile, disassemble or reverse engineer the Software or attempt
+to gain access to its source code; try to modify, distort or block the normal
+functioning of the Software; distribute, sell, lease or sublicense the Software
+without our explicit written permission; publish license keys on the Internet
+or social media.
+
+3. Termination
+
+Failing to comply with this EULA will immediately terminate this license.
+In addition, you may, at any time, terminate this license for no reason.
+However, terminating this license will revoke any rights granted by it, and
+you must immediately stop using the Software.
+
+4. Intellectual property
+
+This Software is the intellectual property of and is owned by Expressive.
+The structure, organization, and code of the Software are the valuable trade
+secrets and confidential information of Expressive. Accordingly, the Software
+is protected by law, including but not limited to copyright laws of the
+European Union and other countries, and by international treaty provisions.
+This EULA does not grant you any intellectual property rights in the Software,
+and all the rights not expressly granted are reserved by Expressive.
+
+5. Data collection policy
+
+Customers that have obtained a valid license key may use it to activate the
+Software. To do that, they must register their device with Expressive and
+associate the license key with that specific device. During device registration,
+information about the Customer's device is transmitted to Expressive. We use
+this information to protect ourselves and our business against abuse and ensure
+that only legit paying Customers can access and use the Software.
+
+Expressive does not collect sensitive and personal information about you while
+using the Software. The information collected is strictly technical and can not
+identify you as an individual. For data collection, we use Plausible, and the
+collected data is never shared or sold to 3rd parties. Instead, data collection
+aims to improve our Software and measure how Customers use it.
+
+6. Software updates
+
+We provide regular updates for the Software. The updates may contain bug fixes,
+new features, or modifications to the UI or how the Software works. All updates
+are subject to this EULA.
+
+Expressive is not required to supply you with updates, upgrades, or new versions.
+
+7. Warranty disclaimer
+
+YOU ACKNOWLEDGE THAT THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, AT THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. THERE IS NO
+WARRANTY BY EXPRESSIVE THAT THE FUNCTIONS OF THE SOFTWARE WILL MEET YOUR REQUIREMENTS
+OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE. YOU ASSUME
+ALL RESPONSIBILITY AND RISK FOR SELECTING THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS
+AND FOR THE INSTALLATION, USE, AND RESULTS OBTAINED FROM IT.
+
+8. Limitation of Liability
+
+IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE),
+CONTRACT, OR OTHERWISE, UNLESS REQUIRED BY APPLICABLE LAW (SUCH AS DELIBERATE
+AND GROSSLY NEGLIGENT ACTS) OR AGREED TO IN WRITING, SHALL EXPRESSIVE BE LIABLE
+TO YOU FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR
+CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS EULA OR OUT OF
+THE USE OR INABILITY TO USE THE SOFTWARE (INCLUDING BUT NOT LIMITED TO DAMAGES FOR
+LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL
+OTHER COMMERCIAL DAMAGES OR LOSSES), EVEN IF EXPRESSIVE HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
