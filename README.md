@@ -21,4 +21,5 @@ Freedom to Creativity. Expressive Animator is Free and Open Source for everyone.
 
 7. Create beautiful Websites, Apps. Import your animated svg in Figma for App design, web design. Grow your Producitvity.
 
-8. Enjoy and florish your creativity in Vector Animation. Create beautiful Websites, Apps. Let the Freedom reign. Free Software for everyone.
+8. Enjoy and Flourish your creativity in Vector Animation (.svg, .js, .css, .html). Create beautiful Websites, Apps.
+9. Let the Freedom reign. Free Software for Everyone Forever.
