@@ -1,6 +1,11 @@
 # Expressive-Animator-1.1-Free-Offline
 Freedom to Creativity. Expressive Animator is Free and Open Source for everyone. Source code is provided for Free for Windows, Linux and Mac. However, Python 3.10 http.server is provided for Windows 11 x64 only. Download compatible Python for your device.
 
+# Web App Available here! Forever Free and Hosting Indefinitely
+Firebase web app is here!
+https://expressive-animator-free.web.app
+https://expressive-animator-free.firebaseapp.com
+
 # Steps for Windows 11 64bit Offline Local Installation
 1. First run the server.bat or expressive-animator-server
 
